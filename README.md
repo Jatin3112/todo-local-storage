@@ -8,6 +8,7 @@ A simple to-do list application built with **React** and styled using **Tailwind
 - **LocalStorage Integration**: Persists to-do data even after page reload.
 - **Theme Toggler**: Toggle between **light** and **dark** themes.
 - **React-Based**: Built using **React.js** for efficient state management.
+- **Context API for State Management**: Utilizes React's Context API for global state management.
 - **Tailwind CSS**: Modern styling with utility-first CSS framework.
 - **User-Friendly Interface**: Simple and minimal UI for better user experience.
 
